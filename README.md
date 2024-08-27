@@ -7,9 +7,7 @@ Highly motivated and detail-oriented Entry-Level Cybersecurity enthusiast with a
 I am a recently transit with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+As a passionate cybersecurity enthusiast with a foundation in ethical hacking and information security auditing, my objective is to contribute to projects that enhance security measures, protect data integrity, and foster a safer digital environment. I aim to leverage my skills in vulnerability assessment, exploit development, and network protection to collaborate on innovative solutions that address modern cybersecurity challenges.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
