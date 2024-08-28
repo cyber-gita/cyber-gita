@@ -16,14 +16,13 @@ As a passionate cybersecurity enthusiast with a foundation in ethical hacking an
 |-----------------------------------------------|----------------------------|
 | Creating and Injecting Exploit                | <a href="https://cyberrgita.blogspot.com/2024/08/creating-and-injecting-exploit-via.html">Malware Creation</a>|
 | Create Honeypot | <a href="https://cyberrgita.blogspot.com/2024/08/create-honeypot.html">Honeypot</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | Under Progress|
+| Incident Response Planning and Execution      | Under Progress|
+| Case Management with TheHive                  | Under Progress|
+| Scripting and Automation for Threat Mitigation | Under Progress|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
+[Provide tools and break them down into categories.]
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -45,9 +44,8 @@ As a passionate cybersecurity enthusiast with a foundation in ethical hacking an
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CEH-990000?style=for-the-badge&logo=EC-Council&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
