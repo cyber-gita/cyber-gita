@@ -14,8 +14,8 @@ As a passionate cybersecurity enthusiast with a foundation in ethical hacking an
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Creating and Injecting Exploit                | <a href="https://cyberrgita.blogspot.com/2024/08/creating-and-injecting-exploit-via.html">Malware Creation</a>|
+| Create Honeypot | <a href="https://cyberrgita.blogspot.com/2024/08/create-honeypot.html>Honeypot</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
