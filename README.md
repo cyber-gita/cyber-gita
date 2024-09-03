@@ -42,9 +42,10 @@ As a passionate cybersecurity enthusiast with a foundation in ethical hacking an
 <a href="https://www.jpmorganchase.com">
     <img src="https://img.shields.io/badge/-JPMorgan%20Chase%20%26%20Co.%20Cybersecurity%20Job%20Simulation-005EB8?style=for-the-badge&logo=JPMorgan&logoColor=white" />
 </a>
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Master%20Card%20Cyber%20Security%20Simulation-EB001B?style=for-the-badge&logo=MasterCard&logoColor=white" />
+<a href="https://www.texial.net/tisa" target="_blank">
+  <img src="https://img.shields.io/badge/-TISA%20Certified-1679A7?style=for-the-badge&logo=security&logoColor=white" alt="TISA Certification Badge"/>
+</a>
 </div>
 
 ## Projects
