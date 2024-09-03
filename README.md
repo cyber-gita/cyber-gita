@@ -10,24 +10,19 @@ I am a recently transit with a profound interest in technology and a dedication 
 As a passionate cybersecurity enthusiast with a foundation in ethical hacking and information security auditing, my objective is to contribute to projects that enhance security measures, protect data integrity, and foster a safer digital environment. I aim to leverage my skills in vulnerability assessment, exploit development, and network protection to collaborate on innovative solutions that address modern cybersecurity challenges.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Creating and Injecting Exploit                | <a href="https://cyberrgita.blogspot.com/2024/08/creating-and-injecting-exploit-via.html">Malware Creation</a>|
 | Create Honeypot | <a href="https://cyberrgita.blogspot.com/2024/08/create-honeypot.html">Honeypot</a>|
-| Security Automation with Shuffle SOAR         | Under Progress|
-| Incident Response Planning and Execution      | Under Progress|
-| Case Management with TheHive                  | Under Progress|
-| Scripting and Automation for Threat Mitigation | Under Progress|
 
 ## Tools
-[Provide tools and break them down into categories.]
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-2A7E33?style=for-the-badge&logo=Metasploit&logoColor=white" />
+
 </div>
 
 ### Endpoint
@@ -38,9 +33,7 @@ As a passionate cybersecurity enthusiast with a foundation in ethical hacking an
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## Certifications
