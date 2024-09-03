@@ -39,7 +39,9 @@ As a passionate cybersecurity enthusiast with a foundation in ethical hacking an
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-CEH-990000?style=for-the-badge&logo=EC-Council&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.jpmorganchase.com">
+    <img src="https://img.shields.io/badge/-JPMorgan%20Chase%20%26%20Co.%20Cybersecurity%20Job%20Simulation-005EB8?style=for-the-badge&logo=JPMorgan&logoColor=white" />
+</a>
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
